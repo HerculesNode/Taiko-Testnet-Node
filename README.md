@@ -23,6 +23,19 @@ Platform testneti ile ilgili Bilgi <br>
  * [Hercules Telegram](https://t.me/HerculesNode)
  * [Hercules Twitter](https://twitter.com/Hercules4413)
  * [Taiko Dc](https://discord.gg/taikoxyz)
+ 
+ ## 🟢 Sistem özellikleri
+
+Minimum:
+- CPU with 2+ cores
+- 4GB RAM
+- 500 Gb 
+
+
+Önerilern:
+- Fast CPU with 4+ cores
+- 16GB+ RAM
+- High-performance SSD with at least 1TB of free space
 
 
 ## 🟢 Sistem Güncelleme
