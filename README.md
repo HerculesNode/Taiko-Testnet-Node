@@ -6,7 +6,15 @@
 <h1 align="center"> Merhaba taiko Node kurulum rehberi <br> by Hercules
 </h1>
 
-## 🟢 Link
+## 🟢 Ön bilgi
+
+Node kurabilmeniz için öncelikle Platform testnetini yapmanız gerekiyor. Platform testnetinde kullandığınız cüzdan adresini burada kullanacağız. <br>
+
+Platform testneti ile ilgili Bilgi <br>
+
+* [Platform Tesneti](https://twitter.com/Hercules4413/status/1608026986164748288)
+
+
 ### Explorer:
  * [Explorer](https://l2explorer.a1.taiko.xyz/)
 
