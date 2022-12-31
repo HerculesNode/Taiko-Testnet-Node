@@ -93,10 +93,10 @@ nano .env
 
 <br>
 
-*ENABLE_PROPOSER=true  ( Falseden true çeviriyoruz )
-*L1_PROPOSER_PRIVATE_KEY= Cüzdanımızın private keyini yazıyoruz
-*L2_SUGGESTED_FEE_RECIPIENT= Cüzdan adresimizi yazıyoruz.
-*ctrl + x Yes diyerek kaydediyoruz.
+*ENABLE_PROPOSER=true  ( Falseden true çeviriyoruz ) <br>
+*L1_PROPOSER_PRIVATE_KEY= Cüzdanımızın private keyini yazıyoruz <br>
+*L2_SUGGESTED_FEE_RECIPIENT= Cüzdan adresimizi yazıyoruz. <br>
+*ctrl + x Yes diyerek kaydediyoruz. <br>
 
 <br>
 
