@@ -136,5 +136,4 @@ cd
 rm -fr simple-taiko-node
 ```
 
-
-
+Forklamayı ve beğenmeyi unutmayınız :)
