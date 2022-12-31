@@ -8,7 +8,7 @@
 
 ## 🟢 Ön bilgi
 
-Node kurabilmeniz için öncelikle Platform testnetini yapmanız gerekiyor. Platform testnetinde kullandığınız cüzdan adresini burada kullanacağız. <br>
+Node kurabilmeniz için öncelikle Platform testnetini yapmanız gerekiyor. Platform testnetinde kullandığınız cüzdan adresini burada kullanacağız. Sistem 6060 port ile çalışıyor celestia gibi node kurduysanız çakışacaktır buna dikkat ediniz. <br>
 
 Platform testneti ile ilgili Bilgi <br>
 
