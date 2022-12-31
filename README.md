@@ -99,6 +99,15 @@ docker-compose up
 ![image](https://user-images.githubusercontent.com/101635385/210138255-d7c31fb4-bbe4-4d6d-8703-6ee16f1a0b47.png)
 
 
+## 🟢 Explorer üzerinden block görüntüleme 
+
+Explorer üzerinden adresinizi yazın aşağıdaki resimdeki gibi ise sorun yok tabi önce senkronize olması gerekiyor. 
+
+ * [Explorer](https://l2explorer.a1.taiko.xyz/)
+
+![image](https://user-images.githubusercontent.com/101635385/210138905-3baea6ea-5424-4197-b4c4-0c23d9578247.png)
+
+
 ## 🟢 Log Görme
 
 Eğer başta screen oluşturmadıysanız bir screeen oıluşturup logları görebilirsiniz.
