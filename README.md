@@ -79,10 +79,12 @@ nano .env
 ```
 
 <br>
+
 *ENABLE_PROPOSER=true  ( Falseden true çeviriyoruz )
 *L1_PROPOSER_PRIVATE_KEY= Cüzdanımızın private keyini yazıyoruz
 *L2_SUGGESTED_FEE_RECIPIENT= Cüzdan adresimizi yazıyoruz.
 * ctrl + x Yes diyerek kaydediyoruz.
+* 
 <br>
 
 ![image](https://user-images.githubusercontent.com/101635385/210138160-c01d12f1-c1d1-40b5-96f0-ac907d3110cc.png)
