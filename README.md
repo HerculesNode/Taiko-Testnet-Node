@@ -161,4 +161,45 @@ cd
 rm -fr simple-taiko-node
 ```
 
+
+## 🟢 Sözleşme Oluşturma ( Bunu yapmak şart değil isterseniz yapın )
+
+Bu işlem sonrası kurulum yapacak ve senkronize olmaya başlayacaktır.
+
+```
+curl -L https://foundry.paradigm.xyz | bash
+```
+
+![image](https://user-images.githubusercontent.com/101635385/210168053-69d942f9-65b9-44cc-a42f-32f6d086b537.png)
+
+
+```
+source /root/.bashrc
+```
+
+```
+foundryup
+```
+
+![image](https://user-images.githubusercontent.com/101635385/210168068-bf4d800a-84e2-4c66-a65a-9f831307a6b5.png)
+
+
+```
+forge init hello_foundry && cd hello_foundry
+```
+
+Nodeyi kurduğunuz cüzdanın private keyini yazın 
+
+```
+forge create --legacy --rpc-url https://l2rpc.a1.taiko.xyz --private-key CÜZDAN-PRİVATE-KEY src/Counter.sol:Counter
+```
+
+![image](https://user-images.githubusercontent.com/101635385/210168108-94cac132-d52e-4c0f-9d90-43043e5d1a7a.png)
+
+
+Sözleşme aşağıdaki gibi oluştu. Kod bölümüne gelin ve doğrulayı tıklayın bir sayfa açılacak en altta doğrula butonuna basın
+
+![image](https://user-images.githubusercontent.com/101635385/210168140-b4b0413e-3020-46d1-8e6a-58468094abdb.png)
+
+
 Forklamayı ve beğenmeyi unutmayınız :)
