@@ -3,7 +3,7 @@
 
 
 <h1 align="center"> Taiko Node </h1>
-<h1 align="center"> Merhaba taiko Node kurulum rehberi <br> by Hercules
+<h1 align="center"> Merhaba taiko Node kurulum rehberi <br> << Hercules >>
 </h1>
 
 ## 🟢 Ön bilgi
