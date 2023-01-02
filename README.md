@@ -148,7 +148,7 @@ docker compose logs -f
 
 ## 🟢 Durdurma
 
-Bu işlem ile node durur, ancak geçmiş verileri korur.
+Bu işlem ile node durur, ancak geçmiş veriler korunur.
 
 ```
 docker compose down
