@@ -162,6 +162,23 @@ rm -fr simple-taiko-node
 ```
 
 
+## 🟢 Port çakışması yaşayanlar
+
+.env dosyasındaki portları resimdeki gibi yapın
+
+![image](https://user-images.githubusercontent.com/101635385/212497942-98ebf473-517d-4932-b8d1-305bcfffde0c.png)
+
+
+docker-compose dosyasındaki şu alanı değiştirin 
+
+
+![image](https://user-images.githubusercontent.com/101635385/212497966-803cb9f5-40f5-4067-aaca-47469ee79d4c.png)
+
+
+Artık sorunsuz çalıştırabilirsiniz. Hercules Node Telegram kanalında bunu paylaşan arkadaşa teşekkür ederim.
+
+
+
 ## 🟢 Sözleşme Oluşturma ( Bunu yapmak şart değil isterseniz yapın )
 
 Bu işlem sonrası kurulum yapacak ve senkronize olmaya başlayacaktır.
