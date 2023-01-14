@@ -135,7 +135,7 @@ Explorer üzerinden adresinizi yazın aşağıdaki resimdeki gibi ise sorun yok 
 
 ## 🟢 Log Görme
 
-Eğer başta screen oluşturmadıysanız bir screeen oıluşturup logları görebilirsiniz.
+Eğer başta screen oluşturmadıysanız bir screen oıluşturup logları görebilirsiniz.
 
 ```
 cd simple-taiko-node
@@ -145,7 +145,7 @@ docker compose logs -f
 
 ## 🟢 Durdurma
 
-Bu işlem sonrası kurulum yapacak ve senkronize olmaya başlayacaktır.
+Bu işlem sonrası bloklar silinmez sadece node durur.
 
 ```
 docker compose down
@@ -153,7 +153,6 @@ docker compose down
 
 ## 🟢 Nodeyi silme
 
-Bu işlem sonrası kurulum yapacak ve senkronize olmaya başlayacaktır.
 
 ```
 docker compose down -v
