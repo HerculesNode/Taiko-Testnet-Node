@@ -10,9 +10,6 @@
 
 Sistem 30303 port ile çalışıyor eğer 30303 portu başka bir uygulama kullanıyorsa altta port değiştirme işlemini yapın. <br>
 
-Platform testneti ile ilgili Bilgi <br>
-
-* [Platform Tesneti](https://twitter.com/Hercules4413/status/1608026986164748288)
 
 
 ### Taiko Bridge:
