@@ -2,8 +2,8 @@
 ![image](https://user-images.githubusercontent.com/101635385/210137987-bdc3fe6f-270d-40f8-b843-d927a58ca6e9.png)
 
 
-<h1 align="center"> Taiko 2 Node </h1>
-<h1 align="center"> Merhaba taiko 2 Node kurulum rehberi <br> << Hercules >>
+<h1 align="center"> Taiko Alpha-2 Node </h1>
+<h1 align="center"> Merhaba taiko Alpha-2 Node kurulum rehberi <br> << Hercules >>
 </h1>
 
 ## 🟢 Ön bilgi
