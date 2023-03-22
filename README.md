@@ -13,7 +13,9 @@ Sistem 30303 port ile çalışıyor eğer 30303 portu başka bir uygulama kullan
 
 
 ### Taiko Bridge:
+
  * [Bridge](https://bridge.a2.taiko.xyz/#/)
+ * [swap](https://swap.a2.taiko.xyz/#/swap)
  * [Ağları Cüzdana Ekleme ](https://chainid.network/)
  * [Explorer](https://explorer.a2.taiko.xyz/)
 
