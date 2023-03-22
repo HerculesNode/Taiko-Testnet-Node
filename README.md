@@ -219,7 +219,7 @@ forge init hello_foundry && cd hello_foundry
 Nodeyi kurduğunuz cüzdanın private keyini yazın 
 
 ```
-forge create --legacy --rpc-url https://l2rpc.a1.taiko.xyz --private-key CÜZDAN-PRİVATE-KEY src/Counter.sol:Counter
+forge create --legacy --rpc-url https://rpc.a2.taiko.xyz --private-key CÜZDAN-PRİVATE-KEY src/Counter.sol:Counter
 ```
 
 ![image](https://user-images.githubusercontent.com/101635385/210168108-94cac132-d52e-4c0f-9d90-43043e5d1a7a.png)
