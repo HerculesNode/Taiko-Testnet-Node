@@ -25,15 +25,11 @@ Sistem 30303 port ile çalışıyor eğer 30303 portu başka bir uygulama kullan
  
  ## 🟢 Sistem özellikleri
 
-Minimum:
-- CPU with 2+ cores
-- 4GB RAM
-- 500 Gb 
 
 
 Önerilern:
-- Fast CPU with 4+ cores
-- 16GB+ RAM
+- CPU - 16 cores
+- Memory - 32GB RAM
 - High-performance SSD with at least 1TB of free space
 
 
