@@ -2,21 +2,23 @@
 ![image](https://user-images.githubusercontent.com/101635385/210137987-bdc3fe6f-270d-40f8-b843-d927a58ca6e9.png)
 
 
-<h1 align="center"> Taiko Node </h1>
-<h1 align="center"> Merhaba taiko Node kurulum rehberi <br> << Hercules >>
+<h1 align="center"> Taiko 2 Node </h1>
+<h1 align="center"> Merhaba taiko 2 Node kurulum rehberi <br> << Hercules >>
 </h1>
 
 ## 🟢 Ön bilgi
 
-Node kurabilmeniz için öncelikle Platform testnetini yapmanız gerekiyor. Platform testnetinde kullandığınız cüzdan adresini burada kullanacağız. Sistem 6060 port ile çalışıyor celestia gibi node kurduysanız çakışacaktır buna dikkat ediniz. <br>
+Sistem 30303 port ile çalışıyor eğer 30303 portu başka bir uygulama kullanıyorsa altta port değiştirme işlemini yapın. <br>
 
 Platform testneti ile ilgili Bilgi <br>
 
 * [Platform Tesneti](https://twitter.com/Hercules4413/status/1608026986164748288)
 
 
-### Explorer:
- * [Explorer](https://l2explorer.a1.taiko.xyz/)
+### Taiko Bridge:
+ * [Bridge](https://bridge.a2.taiko.xyz/#/)
+ * [Ağları Cüzdana Ekleme ](https://chainid.network/)
+ * [Explorer](https://explorer.a2.taiko.xyz/)
 
  
  ### Linkler
@@ -88,16 +90,37 @@ cp .env.sample .env
 nano .env
 ```
 
+<br><br>
+
+Şimdi sepolia RPC almamız gerekiyor ben blockpi kullanıyorum oradan alabilirsiniz.  https://dashboard.blockpi.io/
+
+![image](https://user-images.githubusercontent.com/101635385/226991770-91c96236-88be-45e6-abe1-27d24eacd65f.png)
+
+
+L1_ENDPOINT_HTTP=Blockpi üzerinden alacağınız https linki<br>
+L1_ENDPOINT_WS=Blockpi üzerinden alacağınız wss linki
+
+![image](https://user-images.githubusercontent.com/101635385/226990799-a596650f-1978-4d0a-8fb2-021d07672d62.png)
+
 <br>
 
-*ENABLE_PROPOSER=true  ( Falseden true çeviriyoruz ) <br>
-*L1_PROPOSER_PRIVATE_KEY= Cüzdanımızın private keyini yazıyoruz <br>
-*L2_SUGGESTED_FEE_RECIPIENT= Cüzdan adresimizi yazıyoruz. <br>
+![image](https://user-images.githubusercontent.com/101635385/226991109-bc633b4b-d30a-405a-90ad-667f99d48684.png)
+
+
+<br><br>
+
+ENABLE_PROVER=true yapın<br>
+L1_PROVER_PRIVATE_KEY=Matemask adresinizin private keyini yazın
+
+![image](https://user-images.githubusercontent.com/101635385/226991245-2543ea5d-5371-4fa1-be81-243dfb68413a.png)
+
+
 *ctrl + x Yes diyerek kaydediyoruz. <br>
 
 <br>
 
-![image](https://user-images.githubusercontent.com/101635385/210138160-c01d12f1-c1d1-40b5-96f0-ac907d3110cc.png)
+
+
 
 <br>
 
@@ -121,16 +144,14 @@ Bu işlem sonrası kurulum yapacak ve senkronize olmaya başlayacaktır.
 docker compose up
 ```
 
-![image](https://user-images.githubusercontent.com/101635385/210138255-d7c31fb4-bbe4-4d6d-8703-6ee16f1a0b47.png)
+![image](https://user-images.githubusercontent.com/101635385/226992188-1f9174f9-9b8c-4593-bbe8-ece1086d56e4.png)
 
 
 ## 🟢 Explorer üzerinden block görüntüleme 
 
-Explorer üzerinden adresinizi yazın aşağıdaki resimdeki gibi ise sorun yok tabi önce senkronize olması gerekiyor. 
 
- * [Explorer](https://l2explorer.a1.taiko.xyz/)
+ * [Explorer](https://explorer.a2.taiko.xyz//)
 
-![image](https://user-images.githubusercontent.com/101635385/210138905-3baea6ea-5424-4197-b4c4-0c23d9578247.png)
 
 
 ## 🟢 Log Görme
@@ -165,16 +186,12 @@ rm -fr simple-taiko-node
 
 .env dosyasındaki portları resimdeki gibi yapın
 
-![image](https://user-images.githubusercontent.com/101635385/212497942-98ebf473-517d-4932-b8d1-305bcfffde0c.png)
+![image](https://user-images.githubusercontent.com/101635385/226996911-78dd39d2-d08c-4630-9ae6-e7e0cae90842.png)
 
 
-docker-compose dosyasındaki şu alanı değiştirin 
 
 
-![image](https://user-images.githubusercontent.com/101635385/212497966-803cb9f5-40f5-4067-aaca-47469ee79d4c.png)
-
-
-Artık sorunsuz çalıştırabilirsiniz. Hercules Node Telegram kanalında bunu paylaşan arkadaşa teşekkür ederim.
+Artık sorunsuz çalıştırabilirsiniz. 
 
 
 
