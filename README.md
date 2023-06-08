@@ -145,7 +145,7 @@ docker compose up
 ## 🟢 Explorer üzerinden block görüntüleme 
 
 
- * [Explorer](https://explorer.a2.taiko.xyz//)
+ * [Explorer](https://explorer.test.taiko.xyz/)
 
 
 
@@ -188,6 +188,10 @@ rm -fr simple-taiko-node
 
 Artık sorunsuz çalıştırabilirsiniz. 
 
+
+## 🟢Token oluşturma 
+
+https://twitter.com/Hercules4413/status/1638791758635991040
 
 
 ## 🟢 Sözleşme Oluşturma ( Bunu yapmak şart değil isterseniz yapın )
