@@ -11,12 +11,11 @@
 Sistem 30303 port ile çalışıyor eğer 30303 portu başka bir uygulama kullanıyorsa altta port değiştirme işlemini yapın. <br>
 
 
-
 ### Taiko Bridge:
 
  * [Bridge](https://bridge.test.taiko.xyz/#/)
  * [Ağları Cüzdana Ekleme ](https://chainid.network/)
- * [Explorer](https://explorer.a2.taiko.xyz/)
+ * [Explorer](https://explorer.test.taiko.xyz/)
 
  
  ### Linkler
