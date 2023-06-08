@@ -2,8 +2,8 @@
 ![image](https://user-images.githubusercontent.com/101635385/210137987-bdc3fe6f-270d-40f8-b843-d927a58ca6e9.png)
 
 
-<h1 align="center"> Taiko Alpha-2 Node </h1>
-<h1 align="center"> Merhaba taiko Alpha-2 Node kurulum rehberi <br> << Hercules >>
+<h1 align="center"> Taiko Alpha-3 Node </h1>
+<h1 align="center"> Merhaba taiko Alpha-3 Node kurulum rehberi <br> << Hercules >>
 </h1>
 
 ## 🟢 Ön bilgi
@@ -14,8 +14,7 @@ Sistem 30303 port ile çalışıyor eğer 30303 portu başka bir uygulama kullan
 
 ### Taiko Bridge:
 
- * [Bridge](https://bridge.a2.taiko.xyz/#/)
- * [swap](https://swap.a2.taiko.xyz/#/swap)
+ * [Bridge](https://bridge.test.taiko.xyz/#/)
  * [Ağları Cüzdana Ekleme ](https://chainid.network/)
  * [Explorer](https://explorer.a2.taiko.xyz/)
 
@@ -87,13 +86,15 @@ nano .env
 
 <br><br>
 
-Şimdi sepolia RPC almamız gerekiyor ben blockpi kullanıyorum oradan alabilirsiniz.  https://dashboard.blockpi.io/
+Şimdi sepolia RPC almamız gerekiyor Alchemy üzerinden alabilirsiniz. 
 
-![image](https://user-images.githubusercontent.com/101635385/226991770-91c96236-88be-45e6-abe1-27d24eacd65f.png)
+![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/cf92585d-94c3-4a3a-8a76-b5416620351b)
 
 
-L1_ENDPOINT_HTTP=Blockpi üzerinden alacağınız https linki<br>
-L1_ENDPOINT_WS=Blockpi üzerinden alacağınız wss linki
+
+
+L1_ENDPOINT_HTTP=Alchemy üzerinden alacağınız https linki<br>
+L1_ENDPOINT_WS=Alchemy üzerinden alacağınız wss linki
 
 ![image](https://user-images.githubusercontent.com/101635385/226990799-a596650f-1978-4d0a-8fb2-021d07672d62.png)
 
