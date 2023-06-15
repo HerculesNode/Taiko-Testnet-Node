@@ -246,15 +246,6 @@ Sepolia ağında TTKO test tokenleri geldiyse aşağıdaki işlemleri yapınız.
 ![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/88d8dfe0-2fb3-45bb-9b68-45ee9a791393)
 
 
-Sözleşme üzerinden deposit işlemi yapın. 50 tane yatırmanız gerekiyor
-
-https://sepolia.etherscan.io/address/0x6375394335f34848b850114b66a49d6f47f2cda8#writeProxyContract#F2
-
-![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/fc15ef0d-9fa3-4cee-ab58-5279f36b7737)
-
-
-amount kısmına 5000000000  bunu yazın ve write butonuna basın ardından tilki cüzdanından onay isteyecek.
-
 
 ```
 cd simple-taiko-node
@@ -263,6 +254,18 @@ cd simple-taiko-node
 ```
 docker compose down
 ```
+
+
+
+Sözleşme üzerinden deposit işlemi yapın. 50 tane yatırmanız gerekiyor
+
+https://sepolia.etherscan.io/address/0x6375394335f34848b850114b66a49d6f47f2cda8#writeProxyContract#F2
+
+![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/fc15ef0d-9fa3-4cee-ab58-5279f36b7737)
+
+
+amount kısmına 5000000000  bunu yazın ve write butonuna basın ardından tilki cüzdanından onay isteyecek. Ardından aşağıdaki işlemlere devam edin.
+
 
 ```
 nano .env
