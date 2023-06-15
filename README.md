@@ -275,7 +275,6 @@ nano .env
 
 .env dosyanıza girdiğinizde en altta bulunan alanı aşağıdaki gibi değiştirin. CTRL + X YES komutu ile kaydedin ardından alttaki komut ile nodenizi çaıştırın.
 
-![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/c0d0b5f6-50ac-4a13-b8ed-1b913bd56289)
 
 ENABLE_PROPOSER=true <br>
 L1_PROPOSER_PRIVATE_KEY=MATEMASK CÜZDAN PRİVATE KEY <br>
