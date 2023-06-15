@@ -243,7 +243,7 @@ Sözleşme aşağıdaki gibi oluştu. Kod bölümüne gelin ve doğrulayı tıkl
 
 Sepolia ağında TTKO test tokenleri geldiyse aşağıdaki işlemleri yapınız.
 
-![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/88d8dfe0-2fb3-45bb-9b68-45ee9a791393)
+![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/1c8eae94-c247-4413-b3f0-40511b1b6416)
 
 
 
