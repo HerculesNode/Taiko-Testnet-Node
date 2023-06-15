@@ -241,7 +241,9 @@ Sözleşme aşağıdaki gibi oluştu. Kod bölümüne gelin ve doğrulayı tıkl
 
 
 
-Sepolia ağında TTKO test tokenleri geldiyse aşağıdaki işlemleri yapınız.
+Sepolia ağında TTKO test tokenleri geldiyse aşağıdaki işlemleri yapınız.  Gelip gelmediğini kontrol etmek için isterseniz Tilki cüzdanınızdan explorerde görüntüle diyebilir yada tilki cüzdana aşağıdaki sözleşme adresini ekleyerek bakabilirsiniz.
+
+TTKO Sözleşme adresi : 0xE52952B8063d0AE6Bd35E894866d8148976ce645
 
 ![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/1c8eae94-c247-4413-b3f0-40511b1b6416)
 
