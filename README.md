@@ -237,4 +237,42 @@ Sözleşme aşağıdaki gibi oluştu. Kod bölümüne gelin ve doğrulayı tıkl
 
 
 
+## 🟢 Sepolia Ağı TTKO token
+
+Sepolia ağında TTKO test tokenleri geldiyse aşağıdaki işlemleri yapınız.
+
+![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/88d8dfe0-2fb3-45bb-9b68-45ee9a791393)
+
+
+```
+cd simple-taiko-node
+```
+
+```
+docker compose down
+```
+
+```
+nano .env
+```
+
+.env dosyanıza girdiğinizde en altta bulunan alanı aşağıdaki gibi değiştirin. CTRL + X YES komutu ile kaydedin ardından alttaki komut ile nodenizi çaıştırın.
+
+![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/c0d0b5f6-50ac-4a13-b8ed-1b913bd56289)
+
+ENABLE_PROPOSER=true <br>
+L1_PROPOSER_PRIVATE_KEY=MATEMASK CÜZDAN PRİVATE KEY <br>
+L2_SUGGESTED_FEE_RECIPIENT=MATEMASK CÜZDAN ADRESİNİZ <br>
+
+
+
+```
+docker compose up
+```
+
+Sonuç
+
+![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/6987b0a2-a5d7-4b96-a14e-1806cce648be)
+
+
 Forklamayı ve beğenmeyi unutmayınız :)
