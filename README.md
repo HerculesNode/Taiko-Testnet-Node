@@ -290,5 +290,16 @@ Sonuç
 
 ![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/6987b0a2-a5d7-4b96-a14e-1806cce648be)
 
+<br>
+
+Yatıdığınız 50 TTKO tokenin ne kadar kaldığını görmek için aşağıdaki adresten Cüzdan adresinizi yazın.  
+
+https://sepolia.etherscan.io/address/0x6375394335f34848b850114b66a49d6f47f2cda8#readProxyContract#F10
+
+![image](https://github.com/herculessx/Taiko-Testnet-Node/assets/101635385/e5089611-2390-49bb-be37-338e9bb53f1c)
+
+
+
+
 
 Forklamayı ve beğenmeyi unutmayınız :)
