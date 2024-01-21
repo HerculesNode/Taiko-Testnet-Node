@@ -136,7 +136,7 @@ Private Key nasıl alınır sağdaki 3 noktaya tıklayın --- >> ardından hesap
 Bu işlem sonrası kurulum yapacak ve senkronize olmaya başlayacaktır.
 
 ```
-docker compose up
+docker-compose up
 ```
 
 ![image](https://user-images.githubusercontent.com/101635385/226992188-1f9174f9-9b8c-4593-bbe8-ece1086d56e4.png)
